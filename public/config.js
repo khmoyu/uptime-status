@@ -30,7 +30,7 @@ window.Config = {
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/khmoyu/uptime'
+      url: 'https://github.com/khmoyu/uptime-status'
     },
   ],
 };
